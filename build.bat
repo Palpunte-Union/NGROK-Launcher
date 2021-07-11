@@ -1,2 +1,2 @@
-clang++ ngrokLauncher.cpp
+clang++ ngrokLauncher.cpp -o ngrokLauncher.exe
 pause
