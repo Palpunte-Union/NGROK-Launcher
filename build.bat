@@ -1,0 +1,2 @@
+clang++ ngrokLauncher.cpp
+pause
