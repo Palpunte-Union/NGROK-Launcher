@@ -13,6 +13,5 @@ int main(int argc)
 	}
 
 	printf("NGROK[%d] end\n", GetCurrentProcessId());
-    system("pause");
 	return r;
 }
